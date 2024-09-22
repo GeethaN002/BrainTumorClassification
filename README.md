@@ -1,1 +1,3 @@
 # BrainTumorClassification
+
+Hybrid technique
